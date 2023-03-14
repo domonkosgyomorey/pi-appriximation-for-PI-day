@@ -1,12 +1,8 @@
 # PI approxiamtion algorithm
 
-<<<<<<< HEAD
 ## Developing and testing on Unix system
 
 ## This apprximation use the Monte Carlo algorithm
-=======
-## This apprximation use the Monte Carlo method
->>>>>>> master
 
 ## Requirement
 - [SDL2](https://github.com/libsdl-org/SDL/releases/tag/release-2.26.4) library
